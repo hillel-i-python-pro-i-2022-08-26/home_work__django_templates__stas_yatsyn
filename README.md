@@ -1,8 +1,7 @@
 # Jango Application (HomeWork Stas Yatsyn)
 
 ---
-[![Main workflow](https://github.com/VichiesUA/homework__jango__stas_yatsyn/actions/workflows/main-workflow.yml/badge.svg)](https://github.com/VichiesUA/homework__jango__stas_yatsyn/actions/workflows/main-workflow.yml)
-
+[![Main workflow](https://github.com/hillel-i-python-pro-i-2022-08-26/home_work__django_templates__stas_yatsyn/actions/workflows/main-workflow.yml/badge.svg)](https://github.com/hillel-i-python-pro-i-2022-08-26/home_work__django_templates__stas_yatsyn/actions/workflows/main-workflow.yml)
 ## 🏠 Homework
 
 Homework related actions.
